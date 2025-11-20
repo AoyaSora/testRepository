@@ -16,3 +16,4 @@ It is for Github test.
   - リモートリポジトリにプッシュ
   - ローカルリポジトリとリモートリポジトリを紐づける`git remote add origin https://github.com/ユーザ名/リモートリポジトリ名.git`
   - 紐付け後，`git push origin master`でプッシュを実行する
+conflictテスト
